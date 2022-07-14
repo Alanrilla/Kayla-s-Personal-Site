@@ -1,0 +1,118 @@
+body { margin: 0px;
+       color: #25291f;
+       text-align: center;
+       font-family: 'Merriweather', serif;}
+
+h1 {margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: #ECA6A6; }
+h1:hover{color: pink;}
+
+h2 {font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #ECA6A6;
+    font-weight: normal;
+    padding-bottom: 10px;}
+
+h2:hover{color: pink;}
+
+h3 {font-family: 'Montserrat', sans-serif;
+    color: #ECA6A6;
+    text-align: left;}
+
+hr { border: dotted 2px;
+    border-bottom: none;
+    color: #ECA6A6;
+    background-color: white;
+    width: 10%;
+    margin: 100px auto}
+
+p {line-height: 2;}
+
+
+
+a { color: #ECA6A6;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none; 
+    margin: 20px 10px;}
+
+a:hover {color: pink;  }
+
+.contact-message {width: 40%;
+                  margin: 100px auto 100px auto; }
+
+.copyright { color: #25291f;
+            font-size: 0.75rem;
+            padding: 20px 0px 0px 0px; }
+
+.get-in-touch {padding-bottom: 60px;}
+
+.contact-me {margin-top: 60px;}
+
+.btn {-webkit-border-radius: 28;
+      -moz-border-radius: 28;
+      border-radius: 28px;
+      font-family: 'Montserrat', sans-serif; 
+      color: #f0f0f0;
+      font-size: 20px;
+      background: #ECA6A6;
+      padding: 8px 20px 10px 20px;
+      text-decoration: none;     }
+
+.btn:hover {background: #FFE6E6;
+             text-decoration: none;    }
+
+/*.speaking-paragraph {clear: left;}    clear left - to clear its left side to prevent from wrapping anything
+.managing {clear: right;}   */
+
+.top-container {background-color: #FFE6E6;
+                position: relative;
+                padding-top: 100px;
+                margin-bottom: 50px;} 
+.skill-row {width: 50%;            
+            margin: 150px auto 150px auto;            /*IF YOU SET THIS MARGIN TO AUTO - WHICH MEANS FOR ALL 4 SIDES - THEN THE DIV'S ARE GOING TO BE CENTERED*/
+            text-align: left;    }
+
+
+.bottom-container {background-color: #FFE6E6;
+                   padding: 50px 0px 20px 0px;    
+                        
+                }
+
+.an {text-decoration: underline;}
+
+.top-cloud { position: absolute;
+             right: 200px;
+             top: 100px;}
+
+.bottom-cloud { position: absolute;
+                left: 200px;
+                bottom: 300px}
+
+
+.Speaking-and-Presentational-Skills { width: 25%;
+                                      float: left;
+                                      margin-right: 30px;}
+
+.Managing-and-Collaborative-Work { width: 25%;
+                                   padding-top: 35px;
+                                   float: right;
+                                   margin-left: 30px;}
+
+.Internet-and-Web-Based-Applications { width: 25%;
+                                      float: left;
+                                      margin-right: 30px; }
+
+.Android-Self-taught { width: 25%;
+                       float: right;
+                       margin-left: 30px; } 
+
+
+
+
+
+
+
+
+
